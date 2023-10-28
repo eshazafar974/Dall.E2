@@ -1,0 +1,116 @@
+.flex-container{
+    display: flex;
+background-color: black;
+height: 100px;
+}
+.pic{
+size: 90%;
+}
+.a,.b,.c,.d,.e{
+    background-color: black;
+    color: white;
+    position: relative;
+    float: left;
+    border: 2px;
+    padding: 10px;
+    font-size: 18px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.f,.g,.h{ background-color: black;
+    color: white;
+    position: relative;
+    float: left;
+    border: 2px;
+    font-size: 18px;
+    margin-left: 120px;
+    cursor: pointer;
+ 
+}
+.s {color: white;
+    margin-left: 200px;
+    font-weight: lighter ;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+.t{
+    font-size: 140px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin-left: 180px;
+    font-weight: lighter;
+    line-height: 2px;
+
+}
+.u{
+    font-size: 25px;
+    color: white;
+    margin-left: 180px;
+    margin-right: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.v{
+    color: white;
+background-color: black;
+font-size: 20px;
+border-color: white;
+margin-left: 180px;
+cursor: pointer;
+
+}
+.w{
+    color: white;
+background-color: black;
+font-size: 20px;
+border-color: white;
+cursor: pointer;
+margin-left: 30px;
+border-color: transparent;
+text-decoration: underline;
+}
+.x{
+margin-top: 150px;
+margin-left: 180px;
+}
+
+.y{
+    color: white;
+    font-size: 30px;
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.z{
+   
+    font-size: 25px;
+    color: white;
+   
+}
+.i{
+    color: white;
+    font-size: 50px;
+    font-family: 'Gill Sans';
+    font-weight: lighter;
+
+}
+.j{
+    position: relative;
+    bottom: 70px;
+    margin-left: 1200px;
+    font-size: 18px;
+    border: none;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    text-decoration: underline;
+    
+}
+
+.k{
+    width: 250px;
+}
